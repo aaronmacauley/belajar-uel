@@ -1,0 +1,29 @@
+.img{
+    height: 85px;
+    width: 100px;
+    background-color: #FFFF;
+    border-radius: 50%;
+}
+.imgWhite{
+    height: 90px;
+    width: 90px;
+    background-color: #FFFF;
+    border-radius: 50%;
+}
+.offcanvas-header{
+    background-color: #273242;
+}
+.offcanvas-body{
+    background-color: #273242;
+}
+.btn{
+    background: red !important;
+    border-color: red !important;
+    color: #273242 !important;
+}
+.navbar{
+    background-color: #273242 !important;
+}
+.nav-link{
+    color: #FFFF !important;
+}
